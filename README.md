@@ -16,6 +16,7 @@
 
 💞️ I'm looking to collaborate on open-source projects related to web development or machine learning.
 
-📫 You can reach me through <b>Email</b> at your.email@example.com or connect with me on <b>LinkedIn.</b>
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="70px" width="70px"> 
+📫 You can reach me through <b>Email</b> at your ayeshanasir806@gmail.com or connect with me on <b>LinkedIn.</b>
+
+<a href="https://www.linkedin.com/in/ayeshanasirwin/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="70px" width="70px"> 
 </a>
