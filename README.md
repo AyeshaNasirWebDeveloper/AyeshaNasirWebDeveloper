@@ -17,7 +17,7 @@
 💞️ I'm looking to collaborate on open-source projects related to web development or machine learning.
 
 <h3>📫You can Reach me</h3>
-<a href="mailto:ayeshanasir806@gmail.com"><img src="https://logohistory.net/wp-content/uploads/2023/12/Gmail-Logo.svg" height="100px" width="100px">
+<a href="mailto:ayeshanasir806@gmail.com"><img src="https://static.vecteezy.com/system/resources/previews/016/716/465/original/gmail-icon-free-png.png" height="100px" width="100px">
 </a><a href="https://www.linkedin.com/in/ayeshanasirwin/">
   <img src="https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-net2o24e.png" height="100px" width="100px"> 
 </a>
