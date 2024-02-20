@@ -18,5 +18,5 @@
 
 📫 You can reach me through <b>Email</b> at your ayeshanasir806@gmail.com or connect with me on <b>LinkedIn.</b>
 
-<a href="https://www.linkedin.com/in/ayeshanasirwin/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="70px" width="70px"> 
+<a href="https://www.linkedin.com/in/ayeshanasirwin/"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" height="70px" width="70px"> 
 </a>
