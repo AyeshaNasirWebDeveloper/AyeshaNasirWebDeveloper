@@ -48,13 +48,6 @@ I thrive on creating captivating user experiences through coding and design. I'm
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AyeshaNasirWebDeveloper&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=AyeshaNasirWebDeveloper&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ## 💰 Support Me
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ayeshanasir)
 
