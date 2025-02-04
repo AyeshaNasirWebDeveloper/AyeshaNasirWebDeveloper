@@ -39,6 +39,24 @@ I thrive on creating captivating user experiences through coding and design. I'm
 ---
 
 ## 📊 GitHub Stats:
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=AyeshaNasirWebDeveloper&theme=default&hide_border=false&include_all_commits=true&count_private=true" />
+      </td>
+      <td align="center">
+        <img src="github-readme-stats.vercel.app/api/top-langs/?username=AyeshaNasirWebDeveloper&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyeshaNasirWebDeveloper&theme=default&hide_border=false" />
+
+</div>
+
+
 <center>
   
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaNasirWebDeveloper&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact) ![](https://github-readme-stats.vercel.app/api?username=AyeshaNasirWebDeveloper&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
