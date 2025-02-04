@@ -56,4 +56,6 @@ I thrive on creating captivating user experiences through coding and design. I'm
 
 ---
 
-🚀 **Thanks for visiting my GitHub profile! Happy Coding!** 🎯
+## 🚀 Thanks for visiting my GitHub profile! 
+
+## Happy Coding! 🎯
