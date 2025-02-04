@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ayesha Nasir  
 
-<img src="https://media2.giphy.com/media/78XCFBGOlS6keY1Bil/200w.gif?cid=6c09b952jqdqwod7k3adxgtvguhyi5m9lsrh68ovn826f8st&ep=v1_gifs_search&rid=200w.gif&ct=g" width="200">
+<img src="https://i.pinimg.com/originals/83/ed/6b/83ed6b44b94b45a3d28af5caadcded43.gif" width="200">
 
 </div>
 
