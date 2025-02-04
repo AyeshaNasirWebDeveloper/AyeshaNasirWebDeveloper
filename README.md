@@ -2,9 +2,10 @@
 
 # 👋 Hi, I'm Ayesha Nasir  
 
-<img src="https://i.pinimg.com/originals/83/ed/6b/83ed6b44b94b45a3d28af5caadcded43.gif" width="500">
+<img src="https://i.pinimg.com/originals/83/ed/6b/83ed6b44b94b45a3d28af5caadcded43.gif" width="600">
 
 </div>
+<br/>
 
 🚀 **Passionate Web Developer | Tech Enthusiast | AI & ML Explorer**  
 
