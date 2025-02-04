@@ -2,6 +2,8 @@
 
 # 👋 Hi, I'm Ayesha Nasir  
 
+<img src="https://media2.giphy.com/media/78XCFBGOlS6keY1Bil/200w.gif?cid=6c09b952jqdqwod7k3adxgtvguhyi5m9lsrh68ovn826f8st&ep=v1_gifs_search&rid=200w.gif&ct=g" width="200">
+
 </div>
 
 🚀 **Passionate Web Developer | Tech Enthusiast | AI & ML Explorer**  
