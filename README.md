@@ -1,10 +1,10 @@
-<center>
-  
-# 👋 Hi, I'm Ayesha Nasir
+<div align="center">
 
-🚀 **Passionate Web Developer | Tech Enthusiast | AI & ML Explorer**
+# 👋 Hi, I'm Ayesha Nasir  
 
-</center>
+🚀 **Passionate Web Developer | Tech Enthusiast | AI & ML Explorer**  
+
+</div>
 
 I thrive on creating captivating user experiences through coding and design. I'm always eager to learn new technologies and stay updated with the latest trends in **Web Development, Machine Learning, Web 3.0, Metaverse, and AI.**
 
