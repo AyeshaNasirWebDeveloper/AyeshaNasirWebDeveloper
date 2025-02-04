@@ -47,7 +47,7 @@ I thrive on creating captivating user experiences through coding and design. I'm
         <img src="https://github-readme-stats.vercel.app/api?username=AyeshaNasirWebDeveloper&theme=default&hide_border=false&include_all_commits=true&count_private=true" />
       </td>
       <td align="center">
-        <img src="github-readme-stats.vercel.app/api/top-langs/?username=AyeshaNasirWebDeveloper&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Streak" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/username=AyeshaNasirWebDeveloper&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
