@@ -1,13 +1,18 @@
 <div align="center">
 
-# 👋 Hi, I'm Ayesha Nasir  
+# 👋 Hi, Welcome to my Profiel
 
 <img src="https://i.pinimg.com/originals/83/ed/6b/83ed6b44b94b45a3d28af5caadcded43.gif" width="600">
 
-</div>
+
+# 🙋🏻 I'm Ayesha Nasir
+
 <br/>
 
-<center>🔥**Passionate Web Developer | Tech Enthusiast | AI & ML Explorer** 🔥</center>
+🔥**Passionate Web Developer | Tech Enthusiast | AI & ML Explorer** 🔥
+
+</div>
+<br/>
 
 I thrive on creating captivating user experiences through coding and design. I'm always eager to learn new technologies and stay updated with the latest trends in **Web Development, Machine Learning, Web 3.0, Metaverse, and AI.**
 
