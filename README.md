@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, Welcome to my Profiel
+# 👋 Hey, Welcome!
 
 <img src="https://i.pinimg.com/originals/83/ed/6b/83ed6b44b94b45a3d28af5caadcded43.gif" width="600">
 
