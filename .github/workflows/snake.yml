@@ -18,8 +18,8 @@ jobs:
         with:
           github_user_name: AyeshaNasirWebDeveloper
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=#14532D&color_dots=#E8F5E9,#A5D6A7,#66BB6A,#2E7D32,#14532D
+            dist/github-snake-dark.svg?color_snake=#22C55E&color_dots=#052E16,#14532D,#166534,#16A34A,#22C55E
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
