@@ -68,8 +68,6 @@ I thrive on creating captivating user experiences through coding and design. I'm
 
 ## 🐍 My GitHub Contributions
 
-<h2>🐍 My GitHub Contributions</h2>
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
