@@ -68,9 +68,20 @@ I thrive on creating captivating user experiences through coding and design. I'm
 
 ## 🐍 My GitHub Contributions
 
+<h2>🐍 My GitHub Contributions</h2>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AyeshaNasirWebDeveloper/AyeshaNasirWebDeveloper/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AyeshaNasirWebDeveloper/AyeshaNasirWebDeveloper/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/AyeshaNasirWebDeveloper/AyeshaNasirWebDeveloper/output/github-contribution-grid-snake.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/AyeshaNasirWebDeveloper/AyeshaNasirWebDeveloper/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/AyeshaNasirWebDeveloper/AyeshaNasirWebDeveloper/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/AyeshaNasirWebDeveloper/AyeshaNasirWebDeveloper/output/github-snake.svg"
+  />
 </picture>
 
